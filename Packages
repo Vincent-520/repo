@@ -1,0 +1,10 @@
+Package: com.vincent.polyphian.depths
+Name: Depths
+Version: 1.4.0
+Author: Polyphian
+Maintainer: Vincent
+Section: Themes
+Architecture: iphoneos-arm64
+Description:高度可定制的3D风格的图标主题，由我补充中国大陆常用软件图标。
+Sileodepiction: https://Vincent-520.github.io/sileodepiction/com.vincent.polyphian.depths/js.json
+Icon: https://Vincent-520.github.io/sileodepiction/com.vincent.polyphian.depths/Icon.png
