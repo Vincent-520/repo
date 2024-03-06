@@ -4,10 +4,10 @@ Architecture: iphoneos-arm64
 Maintainer: Vincent
 Depends: com.spark.snowboard
 Filename: ./debs/com.vincent.polyphian.depths_1.4.0_iphoneos-arm64.deb
-Size: 85107328
-MD5sum: f420e262df28364193a9f604a1652d59
-SHA1: df04df4af31516050fae0be9239207b8790cfe9a
-SHA256: 9aaf0709f6e0cd21276435823a547890f23e3f85c7f3e9a3aad5a5571505dbac
+Size: 85101656
+MD5sum: 59c507c0a21d106fbc0c1479b8c48422
+SHA1: 24f6ae195124310ac2aa86f7ab325180689a578d
+SHA256: 9274db81787aa3e7c114d2ab31d3fcba2caff70d23d2121fb2bf461052190e27
 Section: Themes
 Description: 高度可定制的3D风格的图标主题，由我补充中国大陆常用软件图标。
 Author: Polyphian, Vincent
