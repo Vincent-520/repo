@@ -5,13 +5,14 @@ Maintainer: 小果子
 Installed-Size: 3016
 Depends: mobilesubstrate (>= 0.9.5000)
 Filename: ./debs/com.apper.fanqie.rootless_5.2.0_iphoneos-arm64.deb
-Size: 1043872
-MD5sum: 05c38c40e909a65e26f9682c9e86445a
-SHA1: 1d330ab67648498e509184fd62c772a93d9f4fd0
-SHA256: 3de12cf8238653616507222548cdebaa2e724b79238cbe901a4b62f02967222e
+Size: 1043888
+MD5sum: ba599be7efc0be163b5b61f1e2755525
+SHA1: 964db7bb355d72150fac472a5b3eccef71350ba0
+SHA256: 627b0fc5e7b99e31659d1baa1894dd0e6a99f553d66cd4ebe2afcf5fd06eebe6
 Section: Tweaks
 Description: 番茄小说破解会员，基于番茄小说最新版开发，去除广告，去除红包悬浮窗
 Author: 小果子
+Icon: https://Vincent-520.github.io/sileodepiction/com.apper.fanqie.rootless/fqxs.png
 Name: 番茄小说FuckVip
 Sileodepiction: https://Vincent-520.github.io/sileodepiction/com.apper.fanqie.rootless/js.json
 
