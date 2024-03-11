@@ -16,6 +16,24 @@ Icon: https://Vincent-520.github.io/sileodepiction/com.apper.fanqie.rootless/fqx
 Name: 番茄小说FuckVip
 Sileodepiction: https://Vincent-520.github.io/sileodepiction/com.apper.fanqie.rootless/js.json
 
+Package: com.apper.jieya.rootless
+Version: 5.2.0
+Architecture: iphoneos-arm64
+Maintainer: 小果子
+Installed-Size: 784
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.apper.jieya.rootless_5.2.0_iphoneos-arm64.deb
+Size: 287720
+MD5sum: a94bff21a091ab57094d97ade3563a9b
+SHA1: 3e19ff5a88bd465426fd108ff128e2c696473a68
+SHA256: d61649816afae7a82e823938001e6dd58f3dd06e19177c36fafe7f951246a878
+Section: Tweaks
+Description: 解压专家解锁永久高级会员,点击购买后取消
+Author: 小果子
+Icon: https://Vincent-520.github.io/sileodepiction/com.apper.jieya.rootless/jyzj.png
+Name: 解压专家FuckVip
+Sileodepiction: https://Vincent-520.github.io/sileodepiction/com.apper.jieya.rootless/js.json
+
 Package: com.vincent.polyphian.depths
 Version: 1.4.0
 Architecture: iphoneos-arm64
