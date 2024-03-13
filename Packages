@@ -34,16 +34,51 @@ Icon: https://Vincent-520.github.io/sileodepiction/com.apper.jieya.rootless/jyzj
 Name: 解压专家FuckVip
 Sileodepiction: https://Vincent-520.github.io/sileodepiction/com.apper.jieya.rootless/js.json
 
+Package: com.apper.neigou.rootless
+Version: 0.0.1-1
+Architecture: iphoneos-arm64
+Maintainer: 小果子
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.apper.fuckpay.rootless_0.0.1-1_iphoneos-arm64.deb
+Size: 3004
+MD5sum: c52c43a534594fe2b220fb8189b2ef01
+SHA1: 400c6c2d0d557495efd6121e6575e8c2c56ca1a2
+SHA256: 95448034b74139a11d7b3587b2343f85efd03339063d9b2fdb83f0f5c5e00530
+Section: Tweaks
+Description: 破解本地内购，仅支持服务器验证在本地的应用内购，不要尝试内购大软件，支持免越狱注入，如果支持内购，点击购买后取消即为内购成功。
+Author: 小果子
+Icon: https://Vincent-520.github.io/sileodepiction/com.apper.fuckpay.rootless/icon.jpg
+Name: FuckPay
+Sileodepiction: https://Vincent-520.github.io/sileodepiction/com.apper.fuckpay.rootless/js.json
+
+Package: com.apper.weifeng.rootless
+Version: 7.0.0-6
+Architecture: iphoneos-arm64
+Maintainer: 小果子
+Installed-Size: 200
+Depends: mobilesubstrate
+Filename: ./debs/com.appear.weifeng.rootless_7.0.0-6_iphoneos-arm64.deb
+Size: 33652
+MD5sum: 9987914de76a2b154be299134eeadb73
+SHA1: 3784ae959a09b499a0f9a9c4b6c7b4101ff30fd4
+SHA256: 0f4232c0cacfed93fc92f6cddab585308d22e17b4c7a1fd1c10993cb722f93a7
+Section: Tweaks
+Description: 去除你能看到的所有广告，基于威锋7.0开发！通杀威锋7.0.1及之后的版本！FuckYourAds！去他妈的广告!还你干净体验！
+Author: 小果子
+Icon: https://Vincent-520.github.io/sileodepiction/com.apper.weifeng.rootless/icon.png
+Name: 威锋FuckAds
+Sileodepiction: https://Vincent-520.github.io/sileodepiction/com.apper.weifeng.rootless/js.json
+
 Package: com.vincent.polyphian.depths
-Version: 1.4.0
+Version: 1.4.1
 Architecture: iphoneos-arm64
 Maintainer: Vincent
 Depends: com.spark.snowboard
-Filename: ./debs/com.vincent.polyphian.depths_1.4.0_iphoneos-arm64.deb
-Size: 85101656
-MD5sum: 59c507c0a21d106fbc0c1479b8c48422
-SHA1: 24f6ae195124310ac2aa86f7ab325180689a578d
-SHA256: 9274db81787aa3e7c114d2ab31d3fcba2caff70d23d2121fb2bf461052190e27
+Filename: ./debs/com.vincent.polyphian.depths_1.4.1_iphoneos-arm64.deb
+Size: 85291852
+MD5sum: 95ce0e7892b6085e069aeffd94678538
+SHA1: 8a26462b3699def573632dbdc58e240cdae3499a
+SHA256: 89bf6731a19fd7a37338971174ab5e277784ccc5167f63a254598a53003a30f4
 Section: Themes
 Description: 高度可定制的3D风格的图标主题，由我补充中国大陆常用软件图标。
 Author: Polyphian, Vincent
